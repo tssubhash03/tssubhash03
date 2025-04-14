@@ -17,7 +17,7 @@ I enjoy solving complex problems and building scalable web applications.
 
 </td>
     <td align="center" valign="top" width="40%">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="developer gif"/>
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="developer gif"/>
     </td>
   </tr>
 </table>
@@ -73,6 +73,17 @@ I enjoy solving complex problems and building scalable web applications.
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse" alt="IDEs" />
+</p>
+
+---
+
+## 📊 GitHub Activity Graph
+
+<!-- GitHub Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tssubhash03&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tssubhash03&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 ---
