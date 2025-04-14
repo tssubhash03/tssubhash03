@@ -1,11 +1,26 @@
 <h1 align="center">Hi there 👋, I'm Subhash T S</h1>
-<h3 align="center">Full Stack Developer | MERN Stack Enthusiast</h3>
+<h3 align="center">Full Stack Developer | Software Development Enthusiast</h3>
 
----
+<table>
+  <tr>
+    <td valign="top" width="60%">
+    
+### 👨‍💻 About Me
 
-## 👨‍💻 About Me
+I’m a passionate **Full Stack Developer (MERN)** with a solid foundation in electronics and a deep interest in software development.  
+I enjoy solving complex problems and building scalable web applications.  
 
-I’m a passionate **Full Stack Developer (MERN)** with a solid foundation in electronics and a deep interest in software development. I enjoy solving complex problems and building scalable web applications. My current tech stack includes React.js, Node.js, Express.js, MongoDB, and MySQL. I'm continuously learning and exploring new technologies to expand my skill set and bring ideas to life.
+- 🔭 Currently exploring **AI**, **Backend Architectures**, and **DevOps**  
+- 🌱 Tech stack includes: React.js, Node.js, Express.js, MongoDB, MySQL  
+- 🤝 Open to collaboration on web, software or AI projects  
+- ⚡ I thrive on **learning** and **innovation**  
+
+</td>
+    <td align="center" valign="top" width="40%">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="developer gif"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -13,13 +28,16 @@ I’m a passionate **Full Stack Developer (MERN)** with a solid foundation in el
 
 <p align="left">
   <a href="https://www.linkedin.com/in/subhash-t-s-a79443257" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40"/>
   </a>
   <a href="mailto:subhash03ts2004@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" alt="Email"/>
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40"/>
   </a>
   <a href="https://github.com/tssubhash03" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge" alt="GitHub"/>
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40"/>
+  </a>
+  <a href="https://leetcode.com/subhash03ts/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" width="40"/>
   </a>
 </p>
 
@@ -29,86 +47,32 @@ I’m a passionate **Full Stack Developer (MERN)** with a solid foundation in el
 
 - 🔧 Problem-Solving & Debugging  
 - 🌐 Web Development  
-- 🔁 Version Control (Git & GitHub)  
-- 🛢️ Database Management  
-- 🔍 Eager to Learn New Technologies  
-
----
----
-
-## 🧰 Tools & IDEs
-
-<p align="left">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge" alt="Express.js"/>
-</p>
-
----
-
-_Thanks for stopping by! Feel free to explore my repositories and connect for collaborations._ 🚀
-<h1 align="center">Hi there 👋, I'm Subhash T S</h1>
-<h3 align="center">Full Stack Developer | MERN Stack Enthusiast</h3>
-
----
-
-## 👨‍💻 About Me
-
-I’m a passionate **Full Stack Developer (MERN)** with a solid foundation in electronics and a deep interest in software development. I enjoy solving complex problems and building scalable web applications. My current tech stack includes React.js, Node.js, Express.js, MongoDB, and MySQL. I'm continuously learning and exploring new technologies to expand my skill set and bring ideas to life.
-
----
-
-## 🔗 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/subhash-t-s-a79443257" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:subhash03ts2004@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" alt="Email"/>
-  </a>
-  <a href="https://github.com/tssubhash03" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge" alt="GitHub"/>
-  </a>
-</p>
-
----
-
-## 💪 Strengths
-
-- 🔧 Problem-Solving & Debugging  
-- 🌐 Web Development  
-- 🔁 Version Control (Git & GitHub)  
+- 🔁 Version Control  
 - 🛢️ Database Management  
 - 🔍 Eager to Learn New Technologies  
 
 ---
 
-## 🌍 Languages
+## 🧠 Languages
 
-- 🗣️ Tamil (Native)  
-- 🗣️ English (Fluent)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,c" alt="Languages" />
+</p>
 
 ---
 
-## 🧰 Tools & IDEs
+## 🛠️ Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge" alt="Express.js"/>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,mongodb,mysql,nodejs,express,react" alt="Tools" />
+</p>
+
+---
+
+## 🖥️ IDEs
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse" alt="IDEs" />
 </p>
 
 ---
