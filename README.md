@@ -17,7 +17,7 @@ I enjoy solving complex problems and building scalable web applications.
 
 </td>
     <td align="center" valign="top" width="40%">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="developer gif"/>
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="developer gif"/>
     </td>
   </tr>
 </table>
