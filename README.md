@@ -17,7 +17,7 @@ I enjoy solving complex problems and building scalable web applications.
 
 </td>
     <td align="center" valign="top" width="40%">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="developer gif"/>
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="developer gif"/>
     </td>
   </tr>
 </table>
@@ -38,6 +38,16 @@ I enjoy solving complex problems and building scalable web applications.
   </a>
   <a href="https://leetcode.com/subhash03ts/" target="_blank">
     <img src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" width="40"/>
+  </a>
+</p>
+
+---
+
+## 📧 Copy My Email ID
+
+<p align="left">
+  <a href="mailto:subhash03ts2004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Click_to_Copy-orange?logo=gmail&logoColor=white&style=for-the-badge" alt="Copy Email"/>
   </a>
 </p>
 
